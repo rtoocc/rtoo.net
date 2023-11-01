@@ -1,0 +1,4 @@
+platform :ios, '12.0'
+pod 'DAKeyboardControl'
+pod 'Canvas', :path => './Canvas.podspec'
+pod 'URBMediaFocusViewController'
